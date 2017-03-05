@@ -1,0 +1,53 @@
+.bt_Precedent {
+	diplay:inline;
+	height: 100%;
+	width: 5%;
+	float: left;
+	line-height:100%;
+	font-size:30px;
+}
+
+.bt_Precedent:hover {
+	text-shadow: 2px 2px 2px #000000;
+}
+
+.bt_Suivant {
+	diplay:inline;
+	height: 100%;
+	width: 5%;
+	font-size:30px;
+	line-height:100%;
+	float: right;
+}
+
+.bt_Suivant:hover {
+	text-shadow: 2px 2px 2px #000000;
+}
+
+.imageCarousel{
+}
+
+.imageCentraleCarousel{
+	width:50%;
+	height:100%;
+}
+
+.carousel{
+	width:50%;
+	height:50%;
+	position: relative;
+}
+
+.imageGaucheCarousel {
+	float: left;
+	width:20%;
+	height:20%;
+	height:100%;
+}
+
+.imageDroiteCarousel {
+	float: right;
+	width:20%;
+	height:100%;
+}
+

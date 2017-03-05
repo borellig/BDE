@@ -1,0 +1,30 @@
+header {
+	display:inline-block;
+	width:75%;
+	float:right;
+
+}
+
+
+.divTitre {
+	border:#f2f2f2 1px solid;
+	text-align:center;
+	vertical-align:bottom;
+	height:20%;
+	margin:auto;
+	font-size:220%;
+	display:inline-block;
+	/*float:left;*/
+	
+}
+
+.lock {
+	width:5%;
+	height:5%;
+	margin:2%;
+	display:inline-block;
+	position:right;
+	margin-top:0;
+	margin-right:0;
+	float:right;
+}

@@ -1,0 +1,76 @@
+.container {
+	text-align:center;
+}
+
+.selectMbr{
+	float:left;
+	text-align: left;
+	font-weight: bold;
+	width : 25%;
+}
+
+.listeMembres{
+
+}
+
+.mbr{
+	list-style-type: none;
+	cursor:pointer;
+	margin-top:1%;
+	text-align:center;
+	color : #005067;
+	background-color:#e84e0e;
+	font-family:"open sans";
+	display:block;
+	padding:1em;
+
+}
+
+.mbr:hover {
+	color : #e84e0e;
+	background-color:#005067;
+}
+
+.presMbr {
+	background: rgba(0, 0, 0, .1);
+	border : 5px white solid;
+	float:right;
+	width:70%;
+	display:none;
+	text-align:center;
+}
+
+#photo #chPhoto {
+	border: 2px solid white;
+	border-radius: 500px;
+	max-width:100%;
+	height:128px;
+}
+
+.chPhoto {
+	border: 2px solid white;
+	height:128px;
+	width: 128px;
+	height: 128px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+}
+
+.ajoutMbr {
+	width : 45%;
+	float : left;
+}
+
+.modificationMbr {
+	width : 45%;
+	float : right;
+}
+
+#confirmation {
+	display:none;
+}
+
+#modifier {
+	display:none;
+}

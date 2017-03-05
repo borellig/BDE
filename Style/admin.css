@@ -1,0 +1,37 @@
+.btn_submit{
+	color : grey;
+	background-color:silver;
+	font-weight:bold;
+	font-family:"open sans";
+	border:none;
+}
+
+.btn_submit:enabled{
+	color : #005067;
+	background-color:#e84e0e;
+	font-weight:bold;
+	font-family:"open sans";
+	border:none;
+	cursor:pointer;
+}
+
+.btn_submit:enabled:hover {
+	color : #e84e0e;
+	background-color:#005067;
+	cursor:pointer;
+}
+
+.ajout {
+	width:33%;
+	float:left;
+}
+
+.modification {
+	float:left;
+	width:33%;
+}
+
+.suppression {
+	float:left;
+	width:33%;
+}

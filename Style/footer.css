@@ -1,0 +1,23 @@
+footer {
+	clear:both;
+	bottom:0;
+	width:80%;
+	background-color:silver;
+	margin-left:20%;
+	
+}
+
+address {
+	float:left;
+	font-family:"open sans";
+	color:#005067;
+	font-style:inherit;
+	position:relative;
+	margin-left:20%;
+
+}
+
+.partenaires {
+	margin-left : 30%;
+	/*margin-right:40%;*/
+}

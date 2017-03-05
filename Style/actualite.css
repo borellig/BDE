@@ -1,0 +1,32 @@
+.actu {
+	background: rgba(0, 0, 0, .1);
+	border : 5px white solid;
+	margin-bottom : 3%;
+	padding : 2%;
+	text-align:justify;
+}
+
+.ajoutActu {
+	width : 45%;
+	float : left;
+}
+
+.ajoutPhotoMultiple {
+	width : 45%;
+	float : right;
+}
+
+.caroussel {
+	width: 31%;
+	display:inline-block;
+	border : 5px white solid;
+}
+
+.fleche {
+	cursor : pointer;
+}
+
+.fleche:active {
+	background-color: orange;
+	border-radius: 50%;
+}
